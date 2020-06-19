@@ -6,8 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Mamberroi jr</h1>
-
-    <img src="mamberroi.jpg" alt="">
+    
 </body>
 </html>
